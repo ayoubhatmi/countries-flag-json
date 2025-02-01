@@ -1,6 +1,6 @@
 # Countries with Flags JSON Data
 
-This repository contains a JSON dataset with country names, ISO codes, and flag image paths (in SVG format). The flag images are sourced from [Flag Icons by Lipis](https://flagicons.lipis.dev/).
+This repository contains a JSON dataset with country names, ISO codes, and flag image (in SVG format). The flag images are sourced from [Flag Icons by Lipis](https://flagicons.lipis.dev/).
 
 ## Example JSON Data
 
