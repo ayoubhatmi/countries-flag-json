@@ -30,7 +30,3 @@ Here's a snippet of the JSON data:
 
 1. Download the `countries_with_flags.json` file and the SVG flags folder.
 2. Import and use the data in your project.
-
-## License
-
-MIT License.
