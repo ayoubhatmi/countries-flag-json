@@ -1,6 +1,6 @@
 # Countries with Flags JSON Data
 
-This repository contains a JSON dataset with country names, ISO codes, and flag image (in SVG format). The flag images are sourced from [Flag Icons by Lipis](https://flagicons.lipis.dev/).
+This repository contains a JSON dataset with country names, ISO codes, currencies and flag image (in SVG format). The flag images are sourced from [Flag Icons by Lipis](https://flagicons.lipis.dev/).
 
 ## Example JSON Data
 
@@ -11,17 +11,20 @@ Here's a snippet of the JSON data:
   {
     "name": "Afghanistan",
     "code": "AF",
-    "flag": "/images/flags/af.svg"
+    "currency": "AFN",
+    "flag": "/flags/af.svg"
   },
   {
     "name": "Albania",
     "code": "AL",
-    "flag": "/images/flags/al.svg"
+    "currency": "ALL",
+    "flag": "/flags/al.svg"
   },
   {
     "name": "Algeria",
     "code": "DZ",
-    "flag": "/images/flags/dz.svg"
+    "currency": "DZD",
+    "flag": "/flags/dz.svg"
   }
 ]
 ```
